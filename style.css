@@ -1,0 +1,46 @@
+.pencil{
+  width: 100%;
+  height: 50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+
+}
+.pencil img{
+  width: 100px;
+}
+.div-container{
+  padding-top: 5px;
+
+
+
+}
+.img1{
+  background: url("img/web_img_1_HERO.jpg");
+  width: 100%;
+  height: 200px;
+  display: flex;
+  background-position: center;
+
+}
+
+.items-1 {
+width: 100%;
+padding-top: 50px;
+display: flex;
+
+}
+.items{
+flex: 1;
+margin: 1rem;
+text-align: left;
+}
+.items img{
+  width: 100%;
+}
+.list li{
+  display: inline;
+
+}
